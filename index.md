@@ -2,9 +2,12 @@
 <!-- Profile Header -->
 <h1 align="center">Atal Anil Kumar</h1>
 <p align="center">
-  <b>Assistant Professor & Researcher in Robotics and AI</b><br>
+  <img src="Pic_1.jpg" alt="Atal Anil Kumar" width="200" style="border-radius: 50%;">
+</p>
+<p align="center">
+  <b>Professor & Researcher in Robotics and AI</b><br>
   <i>Discipline: Mechatronics, Robotics, Artificial Intelligence</i><br>
-  Affiliated with <b>University of Luxembourg</b> and international collaborators
+  Affiliated with <b>École Nationale d’Ingénieurs de Metz, Université de Lorraine</b> and international collaborators
 </p>
 
 ---
