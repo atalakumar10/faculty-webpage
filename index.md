@@ -13,21 +13,18 @@
 ---
 
 ## 📫 Contact
-- **Professional address:** Université de Lorraine 
+- **Professional address:** ENIM - 1 route d'Ars Laquenexy, 57078 Metz Cedex 3, France
 - **Email:** [atal-anil.kumar@univ-lorraine.fr](mailto:atal-anil.kumar@univ-lorraine.fr)  
 - **Links:** [Google Scholar](https://scholar.google.com/citations?user=cNWj4s4AAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-5957-1930) · [LinkedIn](#)
 
 ---
 
 ## 🧠 Short bio
-I am a robotics researcher specializing in cable-driven parallel robots, industrial automation, and immersive technologies for advanced manufacturing.  
-My work focuses on autonomous systems, human-robot collaboration, predictive maintenance, and sustainable automation for industrial and educational applications.  
-I am actively engaged in outreach activities to promote STEM education among school students and mentor master's and doctoral students in robotics and AI.
 
 ---
 
 ## 📝 Recent Publications
-*(Coming soon)*  
+*2025*  
 <!-- 
 - Author, A., **Kumar, A. A.**, Author, B. (2025). Title of paper. *Journal Name*. [PDF](#) · [BibTeX](#)
 -->
