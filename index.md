@@ -10,9 +10,9 @@
 ---
 
 ## 📫 Contact
-- **Professional address:** University of Luxembourg, Luxembourg  
-- **Email:** [atal.anilkumar@uni.lu](mailto:atal.anilkumar@uni.lu)  
-- **Links:** [Google Scholar](#) · [ORCID](#) · [LinkedIn](#)
+- **Professional address:** Université de Lorraine 
+- **Email:** [atal-anil.kumar@univ-lorraine.fr](mailto:atal-anil.kumar@univ-lorraine.fr)  
+- **Links:** [Google Scholar](https://scholar.google.com/citations?user=cNWj4s4AAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0001-5957-1930) · [LinkedIn](#)
 
 ---
 
