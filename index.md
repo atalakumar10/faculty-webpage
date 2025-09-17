@@ -43,7 +43,7 @@
   <h3>2024</h3>
   <ul>
       <li>
-        Othman, G. B., Kumar, A. A., Hassine, F. B., Copot, D., Sidhom, L., Kamavuako, E. N., ... & Chihi, I. (2024). Sustainability and predictive accuracy evaluation of gel and embroidered electrodes for ECG monitoring. Biomedical Signal Processing and Control, 96, 106632. 
+        Othman, G. B., <strong>Kumar, A. A.<strong>, Hassine, F. B., Copot, D., Sidhom, L., Kamavuako, E. N., ... & Chihi, I. (2024). Sustainability and predictive accuracy evaluation of gel and embroidered electrodes for ECG monitoring. Biomedical Signal Processing and Control, 96, 106632. 
         <a href="https://doi.org/10.1016/j.bspc.2024.106632">[PDF]</a> · <a href="#">[BibTeX]</a>
       </li>
   
