@@ -39,11 +39,6 @@
       <em>Journal of Advanced Joining Processes</em>, 11, 100318. 
       <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
     </li>
-    <li>
-      Author, A., <strong>Kumar, A. A.</strong>, Author, B. (2025). 
-      Title of paper. <em>Journal Name</em>. 
-      <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
-    </li>
   </ul>
 </section>
 
