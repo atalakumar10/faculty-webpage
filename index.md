@@ -50,7 +50,7 @@
     <li>
       <strong>Linear Control Systems in Engineering: Basics and Beyond</strong> (2025)<br>
       A comprehensive exploration of control strategies in robotics with minimal sensory input.  
-      <a href="#">[[Publisher Link](https://doi.org/10.1201/9781003484202)]</a> · <a href="#">[PDF]</a>
+      <a href="https://doi.org/10.1201/9781003484202">[Publisher Link]</a> · <a href="#">[PDF]</a>
     </li>
   </ul>
 </section>
