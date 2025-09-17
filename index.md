@@ -23,14 +23,23 @@
 
 ---
 
-## 📝 Recent Publications
-*2025*  
-<!-- 
-- Tadjouddine, T. J. Y., Antoine, J. F., **Kumar, A. A.**, & Raharijaona, T. (2025, August). Improving static workspace of a suspended cable-driven robot. In 26ème Congrès Français de Mécanique. [PDF](#) · [BibTeX](#) 
-- Author, A., **Kumar, A. A.**, Author, B. (2025). Title of paper. *Journal Name*. [PDF](#) · [BibTeX](#)
--->
-
-
+<section id="publications">
+  <h2>📝 Recent Publications</h2>
+  <h3>2025</h3>
+  <ul>
+    <li>
+      Tadjouddine, T. J. Y., Antoine, J. F., <strong>Kumar, A. A.</strong>, & Raharijaona, T. (2025, August). 
+      Improving static workspace of a suspended cable-driven robot. 
+      In 26ème Congrès Français de Mécanique. 
+      <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
+    </li>
+    <li>
+      Author, A., <strong>Kumar, A. A.</strong>, Author, B. (2025). 
+      Title of paper. <em>Journal Name</em>. 
+      <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
+    </li>
+  </ul>
+</section>
 
 
 <section id="books">
