@@ -41,6 +41,7 @@
     </li>
   </ul>
   <h3>2024</h3>
+  <ul>
       <li>
         Norouzian, M., Khakpour, M., Orosnjak, M., <strong>Kumar, A. A.</strong>, & Kedziora, S. (2025). 
         Prediction of weld quality in laser welding of hardmetal and steel using high-speed imaging and machine learning methods. 
