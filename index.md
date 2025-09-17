@@ -29,6 +29,8 @@
 - Tadjouddine, T. J. Y., Antoine, J. F., **Kumar, A. A.**, & Raharijaona, T. (2025, August). Improving static workspace of a suspended cable-driven robot. In 26ème Congrès Français de Mécanique. [PDF](#) · [BibTeX](#) 
 - Author, A., **Kumar, A. A.**, Author, B. (2025). Title of paper. *Journal Name*. [PDF](#) · [BibTeX](#)
 -->
+
+
 <section id="career">
   <h2>Professional Career</h2>
   <ul>
