@@ -44,8 +44,9 @@
 
   <h2>Degrees</h2>
   <ul>
-    <li><strong>2020:</strong> Ph.D. – Robotics and Control, Université de Lorraine</li>
-    <li><strong>2015:</strong> </li>
+    <li><strong>2020:</strong> Ph.D. – Automatic control, Signal and Image Processing, Computer Engineering, Université de Lorraine</li>
+    <li><strong>2015:</strong> Erasmus Double Degree Masters in Advanced Robotics, Ecole Centrale de Nantes, France and University of Genoa, Italy  </li>
+    <li><strong>2011:</strong> Bachelor of Technology in Mechatronics, SASTRA University, India </li>
   </ul>
 
   <h2>Teaching & Coordination</h2>
