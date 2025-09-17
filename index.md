@@ -47,7 +47,7 @@
         <a href="https://doi.org/10.1016/j.bspc.2024.106632">[PDF]</a> · <a href="#">[BibTeX]</a>
       </li>
       <li>
-      Simeth, A., Kumar, A. A., & Plapper, P. (2025). Flexible and robust detection for assembly automation with YOLOv5: a case study on HMLV manufacturing line. <em>Journal of Intelligent Manufacturing</em>, 36(5), 3447-3463. <a href="https://doi.org/10.1016/j.bspc.2024.106632">[PDF]</a> · <a href="#">[BibTeX]</a>
+      Simeth, A., <strong>Kumar, A. A.</strong>, & Plapper, P. (2025). Flexible and robust detection for assembly automation with YOLOv5: a case study on HMLV manufacturing line. <em>Journal of Intelligent Manufacturing</em>, 36(5), 3447-3463. <a href="https://doi.org/10.1016/j.bspc.2024.106632">[PDF]</a> · <a href="#">[BibTeX]</a>
       <li>
   </ul>
 </section>
