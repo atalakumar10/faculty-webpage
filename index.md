@@ -43,10 +43,8 @@
   <h3>2024</h3>
   <ul>
       <li>
-        Norouzian, M., Khakpour, M., Orosnjak, M., <strong>Kumar, A. A.</strong>, & Kedziora, S. (2025). 
-        Prediction of weld quality in laser welding of hardmetal and steel using high-speed imaging and machine learning methods. 
-        <em>Journal of Advanced Joining Processes</em>, 11, 100318. 
-        <a href="https://doi.org/10.1016/j.jajp.2025.100318">[PDF]</a> · <a href="#">[BibTeX]</a>
+        Othman, G. B., Kumar, A. A., Hassine, F. B., Copot, D., Sidhom, L., Kamavuako, E. N., ... & Chihi, I. (2024). Sustainability and predictive accuracy evaluation of gel and embroidered electrodes for ECG monitoring. Biomedical Signal Processing and Control, 96, 106632. 
+        <a href="https://doi.org/10.1016/j.bspc.2024.106632">[PDF]</a> · <a href="#">[BibTeX]</a>
       </li>
   
   </ul>
