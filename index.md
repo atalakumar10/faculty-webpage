@@ -33,6 +33,12 @@
       In 26ème Congrès Français de Mécanique. 
       <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
     </li>
+
+</li>
+    Norouzian, M., Khakpour, M., Orosnjak, M., Kumar, A. A.</strong>, & Kedziora, S. (2025). Prediction of weld quality in laser welding of hardmetal and steel using high-speed imaging and machine learning methods. Journal of Advanced Joining Processes, 11, 100318. <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
+  
+</li>
+    
     <li>
       Author, A., <strong>Kumar, A. A.</strong>, Author, B. (2025). 
       Title of paper. <em>Journal Name</em>. 
