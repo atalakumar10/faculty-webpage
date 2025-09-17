@@ -29,6 +29,28 @@
 - Tadjouddine, T. J. Y., Antoine, J. F., **Kumar, A. A.**, & Raharijaona, T. (2025, August). Improving static workspace of a suspended cable-driven robot. In 26ème Congrès Français de Mécanique. [PDF](#) · [BibTeX](#) 
 - Author, A., **Kumar, A. A.**, Author, B. (2025). Title of paper. *Journal Name*. [PDF](#) · [BibTeX](#)
 -->
+<section id="career">
+  <h2>Professional Career</h2>
+  <ul>
+    <li><strong>Dec, 2024–Present:</strong> Professor des Universités (CPJ) at ENIM, LCFC Lab<br>
+      <em>Keywords:</em> Industrial robotics, cable-driven robotics, Mechatronics
+    </li>
+    <li><strong>2021–2024:</strong> Research Scientist/ Postdoctoral Fellow, Department of Engineering, University of Luxembourg,<br>
+      <em>Keywords:</em> Robot Manipulation, Production Systems, Smart Manufacturing 
+    </li>
+  </ul>
+
+  <h2>Degrees</h2>
+  <ul>
+    <li><strong>2020:</strong> Ph.D. – Robotics and Control, Université de Lorraine</li>
+    <li><strong>2015:</strong> </li>
+  </ul>
+
+  <h2>Teaching & Coordination</h2>
+  <ul>
+    <li>Courses: Robotics </li>
+  </ul>
+</section>
 
 ---
 
