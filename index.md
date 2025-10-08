@@ -68,7 +68,7 @@
   </ul>
 
   <h4>2018</h4>
- 
+  <ul>
     <li>
       <strong>Kumar, A. A.</strong>, Antoine, J. F., Zattarin, P., & Abba, G. (2018, May). 
       Workspace analysis of a 4 cable-driven spatial parallel robot. 
@@ -76,7 +76,7 @@
       June 25–28, 2018, Rennes, France (pp. 204–212). Cham: Springer International Publishing. 
       <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
     </li>
-
+   </ul>
   
 </section>
 
