@@ -53,6 +53,59 @@
 </section>
 
 
+<section id="publications">
+  <h2>📝 Recent Publications</h2>
+
+  <!-- Conferences -->
+  <h3>🎤 Conference Publications</h3>
+
+  <h4>2025</h4>
+  <ul>
+    <li>
+      Tadjouddine, T. J. Y., Antoine, J. F., <strong>Kumar, A. A.</strong>, & Raharijaona, T. (2025, August). 
+      Improving static workspace of a suspended cable-driven robot. 
+      In <em>26ème Congrès Français de Mécanique</em>. 
+      <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
+    </li>
+  </ul>
+
+  <!-- Journals -->
+  <h3>📚 Journal Publications</h3>
+
+  <h4>2025</h4>
+  <ul>
+    <li>
+      Norouzian, M., Khakpour, M., Orosnjak, M., <strong>Kumar, A. A.</strong>, & Kedziora, S. (2025). 
+      Prediction of weld quality in laser welding of hardmetal and steel using high-speed imaging and machine learning methods. 
+      <em>Journal of Advanced Joining Processes</em>, 11, 100318. 
+      <a href="https://doi.org/10.1016/j.jajp.2025.100318">[PDF]</a> · <a href="#">[BibTeX]</a>
+    </li>
+  </ul>
+
+  <h4>2024</h4>
+  <ul>
+    <li>
+      Othman, G. B., <strong>Kumar, A. A.</strong>, Hassine, F. B., Copot, D., Sidhom, L., Kamavuako, E. N., ... & Chihi, I. (2024). 
+      Sustainability and predictive accuracy evaluation of gel and embroidered electrodes for ECG monitoring. 
+      <em>Biomedical Signal Processing and Control</em>, 96, 106632. 
+      <a href="https://doi.org/10.1016/j.bspc.2024.106632">[PDF]</a> · <a href="#">[BibTeX]</a>
+    </li>
+    <li>
+      Simeth, A., <strong>Kumar, A. A.</strong>, & Plapper, P. (2025). 
+      Flexible and robust detection for assembly automation with YOLOv5: a case study on HMLV manufacturing line. 
+      <em>Journal of Intelligent Manufacturing</em>, 36(5), 3447-3463. 
+      <a href="https://doi.org/10.1016/j.bspc.2024.106632">[PDF]</a> · <a href="#">[BibTeX]</a>
+    </li>
+  </ul>
+</section>
+
+
+
+
+
+
+
+
 
 <section id="books">
   <h2>📚 Books Published</h2>
