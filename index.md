@@ -66,7 +66,15 @@
       <a href="https://doi.org/10.1016/j.bspc.2024.106632">[PDF]</a> · <a href="#">[BibTeX]</a>
     </li>
   </ul>
-
+<h4>2022</h4>
+<ul>
+  <li>
+    Gallala, A., <strong>Kumar, A. A.</strong>, Hichri, B., & Plapper, P. (2022). 
+    Digital Twin for human–robot interactions by means of Industry 4.0 enabling technologies. 
+    <em>Sensors</em>, 22(13), 4950. 
+    <a href="https://doi.org/10.3390/s22134950">[PDF]</a> · <a href="#">[BibTeX]</a>
+  </li>
+</ul>
 <h4>2022</h4>
 <ul>
   <li>
