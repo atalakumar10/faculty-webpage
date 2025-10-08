@@ -25,8 +25,9 @@
 <section id="publications">
   <h2>📝 Recent Publications</h2>
 
-  <!-- Conferences -->
+  <!-- =================== CONFERENCE PUBLICATIONS =================== -->
   <h3>🎤 Conference Publications</h3>
+  <p><em>Note: Includes peer-reviewed papers published in proceedings such as IFAC-PapersOnLine and the Procedia series.</em></p>
 
   <h4>2025</h4>
   <ul>
@@ -38,71 +39,32 @@
     </li>
   </ul>
 
-  <!-- Journals -->
-  <h3>📚 Journal Publications</h3>
-
-  <h4>2025</h4>
+  <h4>2022</h4>
   <ul>
     <li>
-      Norouzian, M., Khakpour, M., Orosnjak, M., <strong>Kumar, A. A.</strong>, & Kedziora, S. (2025). 
-      Prediction of weld quality in laser welding of hardmetal and steel using high-speed imaging and machine learning methods. 
-      <em>Journal of Advanced Joining Processes</em>, 11, 100318. 
-      <a href="https://doi.org/10.1016/j.jajp.2025.100318">[PDF]</a> · <a href="#">[BibTeX]</a>
+      Kolla, S. S. V. K., Lourenço, D. M., <strong>Kumar, A. A.</strong>, & Plapper, P. (2022). 
+      Retrofitting of legacy machines in the context of Industrial Internet of Things (IIoT). 
+      <em>Procedia Computer Science</em>, 200, 62–70. 
+      <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
+    </li>
+    <li>
+      Simeth, A., <strong>Kumar, A. A.</strong>, & Plapper, P. (2022). 
+      Using artificial intelligence to facilitate assembly automation in high-mix low-volume production scenario. 
+      <em>Procedia CIRP</em>, 107, 1029–1034. 
+      <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
     </li>
   </ul>
 
-  <h4>2024</h4>
+  <h4>2020</h4>
   <ul>
     <li>
-      Othman, G. B., <strong>Kumar, A. A.</strong>, Hassine, F. B., Copot, D., Sidhom, L., Kamavuako, E. N., ... & Chihi, I. (2024). 
-      Sustainability and predictive accuracy evaluation of gel and embroidered electrodes for ECG monitoring. 
-      <em>Biomedical Signal Processing and Control</em>, 96, 106632. 
-      <a href="https://doi.org/10.1016/j.bspc.2024.106632">[PDF]</a> · <a href="#">[BibTeX]</a>
-    </li>
-    <li>
-      Simeth, A., <strong>Kumar, A. A.</strong>, & Plapper, P. (2025). 
-      Flexible and robust detection for assembly automation with YOLOv5: a case study on HMLV manufacturing line. 
-      <em>Journal of Intelligent Manufacturing</em>, 36(5), 3447-3463. 
-      <a href="https://doi.org/10.1016/j.bspc.2024.106632">[PDF]</a> · <a href="#">[BibTeX]</a>
+      <strong>Kumar, A. A.</strong>, Antoine, J. F., & Abba, G. (2020). 
+      Control of an underactuated 4 cable-driven parallel robot using modified input-output feedback linearization. 
+      <em>IFAC-PapersOnLine</em>, 53(2), 8777–8782. 
+      <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
     </li>
   </ul>
-<h4>2022</h4>
-<ul>
-  <li>
-    Gallala, A., <strong>Kumar, A. A.</strong>, Hichri, B., & Plapper, P. (2022). 
-    Digital Twin for human–robot interactions by means of Industry 4.0 enabling technologies. 
-    <em>Sensors</em>, 22(13), 4950. 
-    <a href="https://doi.org/10.3390/s22134950">[PDF]</a> · <a href="#">[BibTeX]</a>
-  </li>
-</ul>
-<h4>2022</h4>
-<ul>
-  <li>
-    Kolla, S. S. V. K., Lourenço, D. M., <strong>Kumar, A. A.</strong>, & Plapper, P. (2022). 
-    Retrofitting of legacy machines in the context of Industrial Internet of Things (IIoT). 
-    <em>Procedia Computer Science</em>, 200, 62–70. 
-    <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
-  </li>
-  <li>
-    Simeth, A., <strong>Kumar, A. A.</strong>, & Plapper, P. (2022). 
-    Using artificial intelligence to facilitate assembly automation in high-mix low-volume production scenario. 
-    <em>Procedia CIRP</em>, 107, 1029–1034. 
-    <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
-  </li>
-</ul>
 
-<h4>2020</h4>
-<ul>
-  <li>
-    <strong>Kumar, A. A.</strong>, Antoine, J. F., & Abba, G. (2020). 
-    Control of an underactuated 4 cable-driven parallel robot using modified input-output feedback linearization. 
-    <em>IFAC-PapersOnLine</em>, 53(2), 8777–8782. 
-    <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
-  </li>
-</ul>
-
-
- 
   <h4>2018</h4>
   <ul>
     <li>
@@ -112,9 +74,10 @@
       June 25–28, 2018, Rennes, France (pp. 204–212). Cham: Springer International Publishing. 
       <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
     </li>
-   </ul>
-  
-</section>
+  </ul>
+
+  <!-- =================== JOURNAL
+
 
 
 
