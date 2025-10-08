@@ -66,6 +66,17 @@
       <a href="https://doi.org/10.1016/j.bspc.2024.106632">[PDF]</a> · <a href="#">[BibTeX]</a>
     </li>
   </ul>
+
+  <h4>2018</h4>
+  <li>
+  <strong>Kumar, A. A.</strong>, Antoine, J. F., Zattarin, P., & Abba, G. (2018, May). 
+  Workspace analysis of a 4 cable-driven spatial parallel robot. 
+  In <em>ROMANSY 22–Robot Design, Dynamics and Control: Proceedings of the 22nd CISM IFToMM Symposium</em>, 
+  June 25–28, 2018, Rennes, France (pp. 204–212). Cham: Springer International Publishing. 
+  <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
+</li>
+
+  
 </section>
 
 
