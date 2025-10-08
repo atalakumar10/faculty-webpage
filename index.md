@@ -25,58 +25,9 @@
 <section id="publications">
   <h2>📝 Recent Publications</h2>
 
-  <!-- =================== CONFERENCE PUBLICATIONS =================== -->
-  <h3>🎤 Conference Publications</h3>
-  <p><em>Note: Includes peer-reviewed papers published in proceedings such as IFAC-PapersOnLine and the Procedia series.</em></p>
-
-  <h4>2025</h4>
-  <ul>
-    <li>
-      Tadjouddine, T. J. Y., Antoine, J. F., <strong>Kumar, A. A.</strong>, & Raharijaona, T. (2025, August). 
-      Improving static workspace of a suspended cable-driven robot. 
-      In <em>26ème Congrès Français de Mécanique</em>. 
-      <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
-    </li>
-  </ul>
-
-  <h4>2022</h4>
-  <ul>
-    <li>
-      Kolla, S. S. V. K., Lourenço, D. M., <strong>Kumar, A. A.</strong>, & Plapper, P. (2022). 
-      Retrofitting of legacy machines in the context of Industrial Internet of Things (IIoT). 
-      <em>Procedia Computer Science</em>, 200, 62–70. 
-      <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
-    </li>
-    <li>
-      Simeth, A., <strong>Kumar, A. A.</strong>, & Plapper, P. (2022). 
-      Using artificial intelligence to facilitate assembly automation in high-mix low-volume production scenario. 
-      <em>Procedia CIRP</em>, 107, 1029–1034. 
-      <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
-    </li>
-  </ul>
-
-  <h4>2020</h4>
-  <ul>
-    <li>
-      <strong>Kumar, A. A.</strong>, Antoine, J. F., & Abba, G. (2020). 
-      Control of an underactuated 4 cable-driven parallel robot using modified input-output feedback linearization. 
-      <em>IFAC-PapersOnLine</em>, 53(2), 8777–8782. 
-      <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
-    </li>
-  </ul>
-
-  <h4>2018</h4>
-  <ul>
-    <li>
-      <strong>Kumar, A. A.</strong>, Antoine, J. F., Zattarin, P., & Abba, G. (2018, May). 
-      Workspace analysis of a 4 cable-driven spatial parallel robot. 
-      In <em>ROMANSY 22–Robot Design, Dynamics and Control: Proceedings of the 22nd CISM IFToMM Symposium</em>, 
-      June 25–28, 2018, Rennes, France (pp. 204–212). Cham: Springer International Publishing. 
-      <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
-    </li>
-  </ul>
-
-  <!-- =================== JOURNAL PUBLICATIONS =================== -->
+  <!-- ============================= -->
+  <!-- 📚 JOURNAL PUBLICATIONS -->
+  <!-- ============================= -->
   <h3>📚 Journal Publications</h3>
 
   <h4>2025</h4>
@@ -101,7 +52,7 @@
       Simeth, A., <strong>Kumar, A. A.</strong>, & Plapper, P. (2025). 
       Flexible and robust detection for assembly automation with YOLOv5: a case study on HMLV manufacturing line. 
       <em>Journal of Intelligent Manufacturing</em>, 36(5), 3447–3463. 
-      <a href="https://doi.org/10.1016/j.bspc.2024.106632">[PDF]</a> · <a href="#">[BibTeX]</a>
+      <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
     </li>
   </ul>
 
@@ -113,8 +64,57 @@
       <em>Sensors</em>, 22(13), 4950. 
       <a href="https://doi.org/10.3390/s22134950">[PDF]</a> · <a href="#">[BibTeX]</a>
     </li>
+    <li>
+      Kolla, S. S. V. K., Lourenço, D. M., <strong>Kumar, A. A.</strong>, & Plapper, P. (2022). 
+      Retrofitting of legacy machines in the context of Industrial Internet of Things (IIoT). 
+      <em>Procedia Computer Science</em>, 200, 62–70. 
+      <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
+    </li>
+    <li>
+      Simeth, A., <strong>Kumar, A. A.</strong>, & Plapper, P. (2022). 
+      Using artificial intelligence to facilitate assembly automation in high-mix low-volume production scenario. 
+      <em>Procedia CIRP</em>, 107, 1029–1034. 
+      <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
+    </li>
+  </ul>
+
+  <h4>2020</h4>
+  <ul>
+    <li>
+      <strong>Kumar, A. A.</strong>, Antoine, J. F., & Abba, G. (2020). 
+      Control of an underactuated 4 cable-driven parallel robot using modified input-output feedback linearization. 
+      <em>IFAC-PapersOnLine</em>, 53(2), 8777–8782. 
+      <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
+    </li>
+  </ul>
+
+  <!-- ============================= -->
+  <!-- 🎤 CONFERENCE PUBLICATIONS -->
+  <!-- ============================= -->
+  <h3>🎤 Conference Publications</h3>
+
+  <h4>2025</h4>
+  <ul>
+    <li>
+      Tadjouddine, T. J. Y., Antoine, J. F., <strong>Kumar, A. A.</strong>, & Raharijaona, T. (2025, August). 
+      Improving static workspace of a suspended cable-driven robot. 
+      In <em>26ème Congrès Français de Mécanique</em>. 
+      <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
+    </li>
+  </ul>
+
+  <h4>2018</h4>
+  <ul>
+    <li>
+      <strong>Kumar, A. A.</strong>, Antoine, J. F., Zattarin, P., & Abba, G. (2018, May). 
+      Workspace analysis of a 4 cable-driven spatial parallel robot. 
+      In <em>ROMANSY 22–Robot Design, Dynamics and Control: Proceedings of the 22nd CISM IFToMM Symposium</em>, 
+      June 25–28, 2018, Rennes, France (pp. 204–212). Cham: Springer International Publishing. 
+      <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
+    </li>
   </ul>
 </section>
+
 
 
 
