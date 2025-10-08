@@ -67,6 +67,34 @@
     </li>
   </ul>
 
+<h4>2022</h4>
+<ul>
+  <li>
+    Kolla, S. S. V. K., Lourenço, D. M., <strong>Kumar, A. A.</strong>, & Plapper, P. (2022). 
+    Retrofitting of legacy machines in the context of Industrial Internet of Things (IIoT). 
+    <em>Procedia Computer Science</em>, 200, 62–70. 
+    <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
+  </li>
+  <li>
+    Simeth, A., <strong>Kumar, A. A.</strong>, & Plapper, P. (2022). 
+    Using artificial intelligence to facilitate assembly automation in high-mix low-volume production scenario. 
+    <em>Procedia CIRP</em>, 107, 1029–1034. 
+    <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
+  </li>
+</ul>
+
+<h4>2020</h4>
+<ul>
+  <li>
+    <strong>Kumar, A. A.</strong>, Antoine, J. F., & Abba, G. (2020). 
+    Control of an underactuated 4 cable-driven parallel robot using modified input-output feedback linearization. 
+    <em>IFAC-PapersOnLine</em>, 53(2), 8777–8782. 
+    <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
+  </li>
+</ul>
+
+
+ 
   <h4>2018</h4>
   <ul>
     <li>
