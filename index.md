@@ -88,6 +88,48 @@
     </li>
   </ul>
 
+
+<h4>2011</h4>
+  <ul>
+    <li>
+      Girirajkumar, S. M., <strong>Kumar, A. A.</strong>, & Anantharaman, N. (2011). 
+      Application of Simulated Annealing for Tuning of a PID Controller for a Real Time Industrial Process. 
+      <em>Journal of Computer Science & Control Systems</em>, 4(2). 
+      <a href="https://www.journal-css.com/papers/vol4-2/vol4-2-4.pdf">[PDF]</a> · <a href="#">[BibTeX]</a>
+    </li>
+  </ul>
+
+ <h4>2010</h4>
+  <ul>
+    <li>
+      Girirajkumar, S. M., <strong>Kumar, A. A.</strong>, & Anantharaman, N. (2010). 
+      Tuning of a PID controller for a real time industrial process using particle swarm optimization. 
+      <em>International Journal of Computer Applications</em>, 1(7), 35–40. 
+      <a href="https://doi.org/10.5120/131-233">[PDF]</a> · <a href="#">[BibTeX]</a>
+    </li>
+  </ul>
+
+  <ul>
+    <li>
+      Girirajkumar, S. M., <strong>Kumar, A. A.</strong>, & Anantharaman, N. (2010). 
+      Speed control of a real time DC shunt motor using SA based tuning of a PID controller. 
+      <em>International Journal of Computer Applications</em>, 5(11), 20–26. 
+      <a href="https://doi.org/10.5120/922-1309">[PDF]</a> · <a href="#">[BibTeX]</a>
+    </li>
+  </ul>
+  <ul>
+    <li>
+      Rajkumar, S. G., <strong>Kumar, A. A.</strong>, & Anantharaman, N. (2010). 
+      Application of Genetic Algorithm for Tuning of a PID Controller for a Real Time Industrial Process. 
+      <em>Sensors & Transducers</em>, 121(10), 56. 
+      <a href="https://www.sensorsportal.com/HTML/DIGEST/october_2010/P_56.pdf">[PDF]</a> · <a href="#">[BibTeX]</a>
+    </li>
+  </ul>
+ 
+
+
+  
+
   <!-- ============================= -->
   <!-- 🎤 CONFERENCE PUBLICATIONS -->
   <!-- ============================= -->
