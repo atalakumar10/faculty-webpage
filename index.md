@@ -145,6 +145,28 @@
     </li>
   </ul>
 
+  <ul>
+    <li>
+      Frayard, C., Antoine, J. F., <strong>Kumar, A. A.</strong>, & Raharijaona, T. (2025, August). 
+      Étude mécanique de l'équilibre d'une plateforme robotique sous-actionnée par une approche énergétique. 
+      In <em>26e Congrès Français de Mécanique</em>. 
+      <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
+    </li>
+  </ul>
+
+  <h4>2023</h4>
+  <ul>
+    <li>
+      Belgacem, H., <strong>Kumar, A. A.</strong>, Chihi, I., & Sidhom, L. (2023, October). 
+      Smart fault detection approach leveraging soft sensor and model-free control: Application to robot manipulator. 
+      In <em>2023 IEEE SENSORS</em> (pp. 1–4). IEEE. 
+      <a href="https://doi.org/10.1109/SENSORS56923.2023.10308727">[PDF]</a> · <a href="#">[BibTeX]</a>
+    </li>
+  </ul>
+  
+  
+  
+  
   <h4>2018</h4>
   <ul>
     <li>
