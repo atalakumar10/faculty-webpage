@@ -163,9 +163,52 @@
       <a href="https://doi.org/10.1109/SENSORS56923.2023.10308727">[PDF]</a> · <a href="#">[BibTeX]</a>
     </li>
   </ul>
+
+  <h4>2022</h4>
+  <ul>
+    <li>
+      <strong>Kumar, A. A.</strong>, Moueza, Y., Kolla, S. S. V. K., & Plapper, P. (2022, April). 
+      Intuitive human-robot interaction using augmented reality: A simulation study on KUKA IIWA robot. 
+      In <em>Proceedings of the 12th Conference on Learning Factories (CLF 2022)</em>. 
+      <a href="https://doi.org/10.1016/j.promfg.2022.06.006">[PDF]</a> · <a href="#">[BibTeX]</a>
+    </li>
+  </ul>
+
+  <ul>
+    <li>
+      Miro, M., Glogowski, P., Lemmerz, K., Kuhlenkoetter, B., Gualtieri, L., Rauch, E., ... & <strong>Kumar, A. A.</strong> (2022, June). 
+      Simulation technology and application of safe collaborative operations in human-robot interaction. 
+      In <em>ISR Europe 2022; 54th International Symposium on Robotics</em> (pp. 1–9). VDE. 
+      <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
+    </li>
+  </ul>
+
+  <ul>
+    <li>
+      Hanene, E. G., <strong>Kumar, A. A.</strong>, Antoine, J. F., & Abba, G. (2022, August). 
+      Four Cables-Suspended Parallel Robot with Reconfigurable Platform. 
+      In <em>25e Congrès Français de Mécanique (CFM 2022)</em>. 
+      <a href="#">[PDF]</a> · <a href="#">[BibTeX]</a>
+    </li>
+  </ul>
   
-  
-  
+  <h4>2021</h4>
+  <ul>
+    <li>
+      uz Zaman, U. K., Naveed, K., & <strong>Kumar, A. A.</strong> (2021, May). 
+      Tuning of PID controller using whale optimization algorithm for different systems. 
+      In <em>2021 International Conference on Digital Futures and Transformative Technologies (ICoDT2)</em> (pp. 1–5). IEEE. 
+      <a href="https://doi.org/10.1109/ICoDT253890.2021.9441553">[PDF]</a> · <a href="#">[BibTeX]</a>
+    </li>
+  </ul>
+  <ul>
+    <li>
+      Naveed, K., Zaman, U. K. U., & <strong>Kumar, A. A.</strong> (2021, August). 
+      Overcoming Uncertainties and Disturbances: An Adaptive Control Approach for Mobile Robots. 
+      In <em>2021 IEEE 17th International Conference on Automation Science and Engineering (CASE)</em> (pp. 597–602). IEEE. 
+      <a href="https://doi.org/10.1109/CASE49439.2021.9551629">[PDF]</a> · <a href="#">[BibTeX]</a>
+    </li>
+  </ul>
   
   <h4>2018</h4>
   <ul>
